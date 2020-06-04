@@ -1,12 +1,12 @@
-## About ChiCode
+## ChiCode
 
 ChiCode aims to motivate young children to explore the different aspects of technology. By setting up customized tutorials according to experience level, we hope to allow every child to learn at their own pace. 
 
-ChiCode offers free lessons on the most popular laguages, Python adn Java along with customized tutorng classes.
+ChiCode offers free online lessons on the most popular laguages, Python and Java along with customized tutoring sessions by appointment.
 
-### REGISTER
+## REGISTER
 
-[Register](https://google.com/).
+[Register](https://google.com/) now for customized sessions.
 
 ```markdown
 Syntax highlighted code block
@@ -30,8 +30,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### About ChiCode
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nishikaura2004/ChiCodeWebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ChiCode acknowledges that amidst the CoVID-19 outbreak, many students' summer porgrams and activites have been cancelled or postponed. ChiCode would like to provide students an interactive online experience when learning Python and Java. Our mentors are motivated to help students learn in any way they feel comfortable by keeping the student mentor teacher ratio low for more perosnalized guidance.
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email us at team@chicode.com
+Check us out on [Facebook](https://www.facebook.com) 
+Follow us on [Instagram](https://www.instagram.com) 
