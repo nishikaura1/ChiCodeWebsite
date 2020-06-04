@@ -12,16 +12,6 @@ ChiCode offers free online lessons on the most popular programming languages, Py
 
 
 
-## CLASSES AVAILABLE
-### Python
-Lesson 1
-Lesson 2
-Lesson 3
-### Java
-Lesson 1
-Lesson 2
-Lesson 3
-
 
 ## ABOUT CHICODE
 
