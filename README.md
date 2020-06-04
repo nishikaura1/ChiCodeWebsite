@@ -1,4 +1,4 @@
-## ChiCode
+# CHICODE
 
 ChiCode aims to motivate young children to explore the different aspects of technology. By setting up customized tutorials according to experience level, we hope to allow every child to learn at their own pace. 
 
@@ -28,15 +28,21 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### About ChiCode
+# ABOUT CHICODE
 
 ChiCode acknowledges that amidst the CoVID-19 outbreak, many students' summer porgrams and activites have been cancelled or postponed. ChiCode would like to provide students an interactive online experience when learning Python and Java. Our mentors are motivated to help students learn in any way they feel comfortable by keeping the student mentor teacher ratio low for more perosnalized guidance.
+
+# MEET THE TEAM
+
+Nishi Kaura
+Co-Founder
+
+Saumya Verma
+Co-Founder
 
 
 ### Support or Contact
 
 Email us at team@chicode.com
-
 Check us out on [Facebook](https://www.facebook.com) 
-
 Follow us on [Instagram](https://www.instagram.com) 
