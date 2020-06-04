@@ -36,6 +36,7 @@ ChiCode acknowledges that amidst the CoVID-19 outbreak, many students' summer po
 
 Nishi Kaura
 Co-Founder
+![](
 
 Saumya Verma
 Co-Founder
