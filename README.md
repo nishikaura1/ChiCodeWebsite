@@ -8,7 +8,7 @@ ChiCode offers free online lessons on the most popular programming languages, Py
 
 ## REGISTRATION
 
-[Register](https://google.com/) now for customized sessions.
+[**Register**](https://google.com/) now for customized sessions.
 
 ## LESSONS
 ### Python
