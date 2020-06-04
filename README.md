@@ -42,7 +42,7 @@ Saumya Verma
 Co-Founder
 
 
-### Support or Contact
+### Support & Contact
 
 Email us at team@chicode.com
 Check us out on [Facebook](https://www.facebook.com) 
