@@ -36,5 +36,7 @@ ChiCode acknowledges that amidst the CoVID-19 outbreak, many students' summer po
 ### Support or Contact
 
 Email us at team@chicode.com
+
 Check us out on [Facebook](https://www.facebook.com) 
+
 Follow us on [Instagram](https://www.instagram.com) 
