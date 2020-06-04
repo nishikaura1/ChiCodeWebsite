@@ -4,7 +4,7 @@ ChiCode aims to motivate young children to explore the different aspects of tech
 
 ChiCode offers free online lessons on the most popular programming languages, Python and Java along with customized tutoring sessions by appointment.
 
-## REGISTER
+## REGISTRATION
 
 [Register](https://google.com/) now for customized sessions.
 
