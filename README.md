@@ -1,5 +1,4 @@
-<a href="AboutChiCode.md">About ChiCode</a>
-<a href="Lessons.md">About ChiCode</a>
+<a href="AboutChiCode.md">About ChiCode</a>   <a href="Lessons.md">Lessons</a>
 
 # CHICODE
 
