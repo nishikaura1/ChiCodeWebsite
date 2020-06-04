@@ -8,25 +8,6 @@ ChiCode offers free online lessons on the most popular laguages, Python and Java
 
 [Register](https://google.com/) now for customized sessions.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 # ABOUT CHICODE
 
@@ -34,12 +15,12 @@ ChiCode acknowledges that amidst the CoVID-19 outbreak, many students' summer po
 
 # MEET THE TEAM
 
-Nishi Kaura
-Co-Founder
-![](images/nishi.png)
+### Nishi Kaura
+#### Co-Founder
+I am a rising junior attending Lynbrook High School. I have been programming since an early age. I enjoy coding in Java, Python, and other languages in my free time. I am excited to serve as one of the co founders of ChiCode.
 
-Saumya Verma
-Co-Founder
+### Saumya Verma
+#### Co-Founder
 
 
 ### Support & Contact
