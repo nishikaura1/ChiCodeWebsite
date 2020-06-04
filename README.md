@@ -43,7 +43,7 @@ Abide by the Code of Conduct and the Media Release form.
 Each lesson is between 30 and 45 minutes long.
 
 
-### Support & Contact
+## SUPPORT & CONTACT
 
 Email us at team@chicode.com!
 
