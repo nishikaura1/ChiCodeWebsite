@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## About ChiCode
 
-You can use the [editor on GitHub](https://github.com/nishikaura2004/ChiCodeWebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ChiCode aims to motivate young children to explore the different aspects of technology. By setting up customized tutorials according to experience level, we hope to allow every child to learn at their own pace. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ChiCode offers free lessons on the most popular laguages, Python adn Java along with customized tutorng classes.
 
-### Markdown
+### REGISTER
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Register](https://google.com/).
 
 ```markdown
 Syntax highlighted code block
