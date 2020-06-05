@@ -1,15 +1,26 @@
 
-#### [Registration](#registration-1) [Lessons](#lessons-1) [About ChiCode](#about-chicode-1) [Support and Contact](#suport-and-contact-1)
+#### [Registration](#registration-1)
+#### [Lessons](#lessons-1) 
+#### [About ChiCode](#about-chicode-1) 
+#### [Support and Contact](#suport-and-contact-1)
 
+# CHICODE
 ChiCode aims to motivate young children to explore the different aspects of technology. By setting up customized tutorials according to experience level, we hope to allow every student to learn at their own pace. 
 
 ChiCode offers free online lessons on the most popular programming languages, Python and Java along with customized tutoring sessions by appointment.
 
 ## REGISTRATION
 
-[**Register**](https://google.com/) now for customized sessions.
+Sign up for the Python or Java tutorials and the virtual hackathon held at the end of the lessons. *
+[**REGISTERr**](https://google.com/) now for customized sessions.
 
+## About ChiCode
 
+ChiCode acknowledges that amidst the COVID-19 outbreak, many students' summer programs and activities have been cancelled or postponed. ChiCode would like to provide students an interactive online experience when learning Python and Java. Our mentors are motivated to help students learn in any way they feel comfortable by keeping the student mentor teacher ratio low for more personalized guidance.
+
+## Lessons
+### Python
+### Java
 
 ## FRQ
 ### What is the age limit? 
@@ -28,16 +39,8 @@ Check us out on [Facebook](https://www.facebook.com)!
 
 Follow us on [Instagram](https://www.instagram.com)!
 
+* Only if you have signed up for these tutorials, you will be eligible to participate and win in the hackathon.
 
 
-
-## Lessons
-### Python
-### Java
-
-
-## About ChiCode
-
-ChiCode acknowledges that amidst the COVID-19 outbreak, many students' summer programs and activities have been cancelled or postponed. ChiCode would like to provide students an interactive online experience when learning Python and Java. Our mentors are motivated to help students learn in any way they feel comfortable by keeping the student mentor teacher ratio low for more personalized guidance.
 
 
