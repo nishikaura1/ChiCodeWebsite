@@ -15,13 +15,14 @@ Sign up for the Python or Java tutorials and the virtual hackathon held at the e
 
 [**REGISTER**](https://google.com/) now for customized sessions.
 
-## About ChiCode
+## LESSONS
+### Python
+### Java
+
+## ABOUT CHICODE
 
 ChiCode acknowledges that amidst the COVID-19 outbreak, many students' summer programs and activities have been cancelled or postponed. ChiCode would like to provide students an interactive online experience when learning Python and Java. Our mentors are motivated to help students learn in any way they feel comfortable by keeping the student mentor teacher ratio low for more personalized guidance.
 
-## Lessons
-### Python
-### Java
 
 ## FRQ
 ### What is the age limit? 
