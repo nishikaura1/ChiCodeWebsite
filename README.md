@@ -2,6 +2,7 @@
 #### [Registration](#registration-1)  
 #### [Lessons](#lessons-1) 
 #### [About ChiCode](#about-chicode-1) 
+#### [FRQ](#frq-1)
 #### [Support and Contact](#suport-and-contact-1)
 
 # CHICODE
