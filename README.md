@@ -1,7 +1,7 @@
 
-# [Lessons] (#lessons)
+# [Lessons](#https://github.com/nishikaura2004/ChiCodeWebsite/blob/master/README.md#lessons)
 
-# [About ChiCode] (#about-chicode)
+# [About ChiCode](#https://github.com/nishikaura2004/ChiCodeWebsite/blob/master/README.md#about-chicode)
 
 ChiCode aims to motivate young children to explore the different aspects of technology. By setting up customized tutorials according to experience level, we hope to allow every student to learn at their own pace. 
 
