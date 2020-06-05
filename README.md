@@ -1,8 +1,7 @@
 
-# About ChiCode(#about-chicode)  
-# Lessons(#lessons)
+# [Lessons] (#lessons)
 
-# CHICODE
+# [About ChiCode] (#about-chicode)
 
 ChiCode aims to motivate young children to explore the different aspects of technology. By setting up customized tutorials according to experience level, we hope to allow every student to learn at their own pace. 
 
@@ -12,12 +11,12 @@ ChiCode offers free online lessons on the most popular programming languages, Py
 
 [**Register**](https://google.com/) now for customized sessions.
 
-# lessons
+## Lessons
 ### Python
 ### Java
 
 
-# about-chicode
+## About ChiCode
 
 ChiCode acknowledges that amidst the COVID-19 outbreak, many students' summer programs and activities have been cancelled or postponed. ChiCode would like to provide students an interactive online experience when learning Python and Java. Our mentors are motivated to help students learn in any way they feel comfortable by keeping the student mentor teacher ratio low for more personalized guidance.
 
