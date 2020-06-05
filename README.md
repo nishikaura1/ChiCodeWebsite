@@ -1,5 +1,5 @@
 
-# [Lessons](#lessons)
+# [Lessons](#lessons-1)
 
 # [About ChiCode](#about-chicode)
 
