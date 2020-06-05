@@ -40,7 +40,7 @@ Check us out on [Facebook](https://www.facebook.com)!
 
 Follow us on [Instagram](https://www.instagram.com)!
 
-*Only if you have signed up for these tutorials, you will be eligible to participate and win in the hackathon.
+*If you have signed up for the tutorials, you will only then be eligible to participate and win awesome prizes at the virtual hackathon.
 
 
 
