@@ -3,6 +3,7 @@
 #### [Lessons](#lessons-1) 
 #### [About ChiCode](#about-chicode-1) 
 #### [FRQ](#frq-1)
+#### [Meet the Team](#meet-the-team-1)
 #### [Support and Contact](#suport-and-contact-1)
 
 # CHICODE
