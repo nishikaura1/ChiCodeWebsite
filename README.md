@@ -17,7 +17,7 @@ ChiCode offers free online lessons on the most popular programming languages, Py
 
 Sign up for the Python or Java tutorials and the virtual hackathon held at the end of the lessons. *
 
-[**REGISTER**](https://google.com/) now for customized sessions.
+[REGISTER](https://google.com/) now for customized sessions.
 
 ---------------------
 
@@ -56,7 +56,7 @@ I am a rising junior attending Lynbrook High School. I have been programming sin
 
 ## SUPPORT & CONTACT
 
-Email us at team@chicode.com!
+Email us at team@chicode.com(team@chicode.com)!
 
 Check us out on [Facebook](https://www.facebook.com)!
 
