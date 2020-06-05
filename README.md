@@ -1,8 +1,5 @@
 
-#### [Registration](#registration-1)
-#### [Lessons](#lessons-1)
-#### [About ChiCode](#about-chicode-1)
-#### [Support and Contact](#suport-and-contact-1)
+#### [Registration](#registration-1) #### [Lessons](#lessons-1) #### [About ChiCode](#about-chicode-1) #### [Support and Contact](#suport-and-contact-1)
 
 ChiCode aims to motivate young children to explore the different aspects of technology. By setting up customized tutorials according to experience level, we hope to allow every student to learn at their own pace. 
 
