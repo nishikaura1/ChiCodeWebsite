@@ -1,4 +1,5 @@
-<a href="AboutChiCode.md">About ChiCode</a>   <a href="Lessons.md">Lessons</a>
+#About ChiCode(#about-chicode)  
+#Lessons(#lessons)
 
 # CHICODE
 
@@ -10,12 +11,12 @@ ChiCode offers free online lessons on the most popular programming languages, Py
 
 [**Register**](https://google.com/) now for customized sessions.
 
-## LESSONS
+#lessons
 ### Python
 ### Java
 
 
-## ABOUT CHICODE
+#about-chicode
 
 ChiCode acknowledges that amidst the COVID-19 outbreak, many students' summer programs and activities have been cancelled or postponed. ChiCode would like to provide students an interactive online experience when learning Python and Java. Our mentors are motivated to help students learn in any way they feel comfortable by keeping the student mentor teacher ratio low for more personalized guidance.
 
