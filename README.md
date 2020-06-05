@@ -12,7 +12,7 @@ ChiCode offers free online lessons on the most popular programming languages, Py
 ## REGISTRATION
 
 Sign up for the Python or Java tutorials and the virtual hackathon held at the end of the lessons. *
-[**REGISTERr**](https://google.com/) now for customized sessions.
+[**REGISTER**](https://google.com/) now for customized sessions.
 
 ## About ChiCode
 
