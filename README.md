@@ -56,7 +56,7 @@ I am a rising junior attending Lynbrook High School. I have been programming sin
 
 ## SUPPORT & CONTACT
 
-Email us at team@chicode.com(team@chicode.com)!
+Email us at team@chicode.com!
 
 Check us out on [Facebook](https://www.facebook.com)!
 
